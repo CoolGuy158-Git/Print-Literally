@@ -13,6 +13,7 @@ It is a wrapper around win32print.
 ## Why?
 
 Well I made this to learn Windows API and stuff but the possible usage are:
+
     - Text dumping
     - Printing logs
     - etc.
