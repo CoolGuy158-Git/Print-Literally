@@ -26,14 +26,14 @@ print to printer
 ```python
 from print_literally import literal_print
 
-literal_print("Hello world\n", True) # Add True if you want logs.
+literal_print("Hello world\n", True) # Leave blank for no logs
 ```
 
 print to printer but binary (1's and 0's)
 ```python
 from print_literally import bin_print
 
-bin_print("Hello world\n", True) # Add True if you want logs.
+bin_print("Hello world\n", True) # Leave blank for no logs
 ```
 
 ---
